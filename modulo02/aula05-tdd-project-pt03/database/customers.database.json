@@ -1,0 +1,32 @@
+[
+  {
+    "id": "746c9eb0-2867-41d2-b4d2-09963547bef9",
+    "name": "Maryjane Kihn",
+    "email": "Maryjane96@yahoo.com",
+    "phone": "+55 (78) 9 2952-0056",
+    "address": "9285 Wisoky Overpass",
+    "cpf": 15721700084,
+    "age": 38,
+    "cars": []
+  },
+  {
+    "id": "c1b9092e-f39b-43ae-b40a-aadb88dea469",
+    "name": "Donnell Littel",
+    "email": "Donnell3@gmail.com",
+    "phone": "+55 (88) 9 0684-6445",
+    "address": "1129 Ullrich Rest",
+    "cpf": 86164462217,
+    "age": 27,
+    "cars": []
+  },
+  {
+    "id": "1a67282d-948f-40cd-b537-c7936f88f4ab",
+    "name": "Ivy Olson",
+    "email": "Ivy_Olson@gmail.com",
+    "phone": "+55 (88) 9 8131-6265",
+    "address": "2792 Cummerata Well",
+    "cpf": 22112751263,
+    "age": 35,
+    "cars": []
+  }
+]

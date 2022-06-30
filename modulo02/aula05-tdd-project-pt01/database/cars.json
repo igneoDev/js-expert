@@ -1,0 +1,23 @@
+[
+  {
+    "id": "411142b8-a621-410c-9549-f8f0f7c0c34c",
+    "name": "F-150",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": false
+  },
+  {
+    "id": "b99448ac-6851-4fb2-851d-a1884fb272b9",
+    "name": "Civic",
+    "releaseYear": 2021,
+    "available": false,
+    "gasAvailable": true
+  },
+  {
+    "id": "f1e40148-3fbc-4c14-b946-7001cf005c38",
+    "name": "ATS",
+    "releaseYear": 2021,
+    "available": false,
+    "gasAvailable": true
+  }
+]

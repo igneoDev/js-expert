@@ -1,0 +1,32 @@
+[
+  {
+    "id": "6f2d6de3-e1de-4a92-8bd2-4506be7b0c2c",
+    "name": "Chaya Rau",
+    "email": "Chaya47@yahoo.com",
+    "phone": "+55 (05) 9 5904-6912",
+    "address": "2402 Roberts Forge",
+    "cpf": 69515433791,
+    "age": 39,
+    "cars": []
+  },
+  {
+    "id": "d16c269a-8b72-4a67-bb74-b6bb29f84c23",
+    "name": "Gino Cummerata",
+    "email": "Gino_Cummerata11@gmail.com",
+    "phone": "+55 (70) 9 2676-3355",
+    "address": "752 Abernathy Stravenue",
+    "cpf": 79519964708,
+    "age": 25,
+    "cars": []
+  },
+  {
+    "id": "cb3e1983-881e-4419-bcac-3a4ecf8961e5",
+    "name": "Naomi Beatty",
+    "email": "Naomi33@hotmail.com",
+    "phone": "+55 (81) 9 8135-1541",
+    "address": "55881 Deanna Trail",
+    "cpf": 79927600920,
+    "age": 45,
+    "cars": []
+  }
+]

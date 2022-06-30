@@ -1,0 +1,23 @@
+[
+  {
+    "id": "f7f78db7-3f9e-44f4-b884-a8b805b261fa",
+    "name": "911",
+    "releaseYear": 2022,
+    "available": false,
+    "gasAvailable": true
+  },
+  {
+    "id": "7a84ff30-d932-4f7a-a7cf-55e4ae93a221",
+    "name": "PT Cruiser",
+    "releaseYear": 2021,
+    "available": false,
+    "gasAvailable": false
+  },
+  {
+    "id": "62750e79-3fe2-4494-bd2f-d4a0983f77eb",
+    "name": "Mustang",
+    "releaseYear": 2022,
+    "available": true,
+    "gasAvailable": true
+  }
+]
